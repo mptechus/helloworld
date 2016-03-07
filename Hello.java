@@ -1,4 +1,4 @@
-class Public{
+class Public445{
 
 public static void main(String[] args){}
 
